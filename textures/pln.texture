@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "pln",
+  "identifier": "texture:126411-90d51b12-d084-449e-b1b5-62d7b39f82e5",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "566c0ada96f22d29a55f45ff43a2c427",
+  "assetLocator": "textures/pln.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 655,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "566c0ada96f22d29a55f45ff43a2c427",
+      "colorCount": 32651,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 7.944091777233703,
+      "pixelsHigh": 655,
+      "pixelsWide": 1024
+    }
+  ]
+}

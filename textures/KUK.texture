@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "KUK",
+  "identifier": "texture:7023-c3eae360-ca12-4abc-b2dd-1772182fea62",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "7b774e7f88e012382542e760ba1eece7",
+  "assetLocator": "textures/KUK.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 62,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 131,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "7b774e7f88e012382542e760ba1eece7",
+      "colorCount": 1670,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 3.109509207726438,
+      "pixelsHigh": 62,
+      "pixelsWide": 131
+    }
+  ]
+}

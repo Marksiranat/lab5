@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "HOR",
+  "identifier": "texture:6507-c3eae360-ca12-4abc-b2dd-1772182fea62",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "ee12179147d2553940f264d893a10415",
+  "assetLocator": "textures/HOR.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 63,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 130,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "ee12179147d2553940f264d893a10415",
+      "colorCount": 2443,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 5.5671449261576065,
+      "pixelsHigh": 63,
+      "pixelsWide": 130
+    }
+  ]
+}

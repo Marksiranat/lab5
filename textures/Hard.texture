@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Hard",
+  "identifier": "texture:4981-c3eae360-ca12-4abc-b2dd-1772182fea62",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "7da705976cd91f2e4d4b995e16206139",
+  "assetLocator": "textures/Hard.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 382,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "7da705976cd91f2e4d4b995e16206139",
+      "colorCount": 42181,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 7.44366857757791,
+      "pixelsHigh": 382,
+      "pixelsWide": 1024
+    }
+  ]
+}

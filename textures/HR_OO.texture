@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "HR_OO",
+  "identifier": "texture:140373-90d51b12-d084-449e-b1b5-62d7b39f82e5",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "e2c906126c2bf28e9d40781de4b04146",
+  "assetLocator": "textures/HR_OO.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 575,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "e2c906126c2bf28e9d40781de4b04146",
+      "colorCount": 73279,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 7.12398146073471,
+      "pixelsHigh": 575,
+      "pixelsWide": 1024
+    }
+  ]
+}
