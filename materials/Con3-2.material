@@ -1,14 +1,14 @@
 {
   "modelName": "defaultMaterial",
   "name": "Con3",
-  "identifier": "defaultMaterial168205-c3eae360-ca12-4abc-b2dd-1772182fea62",
+  "identifier": "defaultMaterial:3835-de4fdbec-e2a5-4d73-9620-a3baf49140b1",
   "alphaTestEnabled": false,
   "alphaTestThreshold": 0,
   "blendMode": "alpha",
   "colorEncoding": "linear",
   "cullMode": "back",
   "diffuseFactor": "0xffffffff",
-  "diffuseTextureName": "texture:185735-90d51b12-d084-449e-b1b5-62d7b39f82e5",
+  "diffuseTextureName": "sequenceTexture:4603-de4fdbec-e2a5-4d73-9620-a3baf49140b1",
   "diffuseTextureTransform": {
     "offsetU": 0,
     "offsetV": 0,
