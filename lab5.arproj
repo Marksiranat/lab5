@@ -428,14 +428,14 @@
           "name": "Con1",
           "identifier": "sequenceTexture:61193-c3eae360-ca12-4abc-b2dd-1772182fea62",
           "frameRate": 1,
-          "sourceTextureIdentifier": "textureGroup:62821-c3eae360-ca12-4abc-b2dd-1772182fea62"
+          "sourceTextureIdentifier": "textureGroup:2247-917545d7-2dd7-48ce-9f73-e45f35eb59f4"
         },
         {
           "modelName": "sequenceTexture",
           "name": "Con2",
           "identifier": "sequenceTexture:62271-c3eae360-ca12-4abc-b2dd-1772182fea62",
           "frameRate": 1,
-          "sourceTextureIdentifier": "textureGroup:62821-c3eae360-ca12-4abc-b2dd-1772182fea62"
+          "sourceTextureIdentifier": "textureGroup:3013-917545d7-2dd7-48ce-9f73-e45f35eb59f4"
         },
         {
           "modelName": "textureGroup",
@@ -473,6 +473,40 @@
         },
         {
           "sectionFileLocation": "textures/Remove-bg.ai_1707793866595.texture"
+        },
+        {
+          "modelName": "textureGroup",
+          "name": "[1-2]",
+          "identifier": "textureGroup:2247-917545d7-2dd7-48ce-9f73-e45f35eb59f4",
+          "sequenceFramesTextureIdentifiers": [
+            "texture:2245-917545d7-2dd7-48ce-9f73-e45f35eb59f4",
+            "texture:2241-917545d7-2dd7-48ce-9f73-e45f35eb59f4"
+          ],
+          "children": [
+            {
+              "sectionFileLocation": "textures/382237635_2642562589231895_6620307869832440730_n(1).texture"
+            },
+            {
+              "sectionFileLocation": "textures/KUK(2).texture"
+            }
+          ]
+        },
+        {
+          "modelName": "textureGroup",
+          "name": "[1-2]",
+          "identifier": "textureGroup:3013-917545d7-2dd7-48ce-9f73-e45f35eb59f4",
+          "sequenceFramesTextureIdentifiers": [
+            "texture:3011-917545d7-2dd7-48ce-9f73-e45f35eb59f4",
+            "texture:3007-917545d7-2dd7-48ce-9f73-e45f35eb59f4"
+          ],
+          "children": [
+            {
+              "sectionFileLocation": "textures/382237635_2642562589231895_6620307869832440730_n(2).texture"
+            },
+            {
+              "sectionFileLocation": "textures/KUK(3).texture"
+            }
+          ]
         }
       ]
     },
